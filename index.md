@@ -6,3 +6,6 @@
 love = ("<3")
 print(f"my {love}")
 ```
+- [ ] Learn linux/git
+- [ ] Learn Python
+- [ ] Learn cloud (AWS, Azure, Terraform)
